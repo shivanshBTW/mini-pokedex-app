@@ -1,0 +1,16 @@
+#heading {
+  text-align: center;
+  color: lightgrey;
+}
+
+.Pokedex {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.Pokedex-cardContainer {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  grid-gap: 5%;
+  margin-left: 10%;
+  margin-right: 10%;
+}
