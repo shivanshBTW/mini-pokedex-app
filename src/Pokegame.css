@@ -1,0 +1,25 @@
+#heading {
+  text-align: center;
+  color: lightgrey;
+}
+
+.Pokegame {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.red {
+  color: red;
+}
+
+.green {
+  color: green;
+}
+
+.wl {
+  font-size: 25px;
+  text-align: center;
+}
+
+.score {
+  text-align: center;
+}
